@@ -3,14 +3,15 @@ Coding exercises and experiments
 
 ---
 
-SQL_Bootcamp_homework_HR_Dataset.sql
-The task involved analyzing HR data from the HR_Dataset.csv file. This included creating a corresponding table in DBeaver, importing the data, and running SQL queries to answer specific questions about employee counts, salaries, roles, and performance. The analysis also investigated employee satisfaction and unique cases like Carol Anderson's resignation. Additionally, a bonus query explored departments exceeding performance expectations.
+### SQL_Bootcamp_homework_HR_Dataset.sql
+The task involved creating a table in DBeaver, importing HR_Dataset.csv, and running SQL queries to analyze employee data, including counts, salaries, roles, and performance metrics. Bonus: departments with high-performing employees.
 
-Note: The tasks were completed in Polish.
+Note: Tasks completed in Polish.
 
 ---
 
-SQL_Bootcamp_homework_Weather.sql
-This task focused on analyzing weather data from Summary of Weather.csv and Weather Station Locations.csv. It included importing the data, exploring correlations between temperature and geographic coordinates, and identifying extreme weather events. Queries ranged from analyzing temperature fluctuations and precipitation patterns to ranking locations by the lowest recorded temperatures. A bonus query explored occurrences of snowfall in July.
+### SQL_Bootcamp_homework_Weather.sql
 
-Note: The tasks were completed in Polish.
+This task focused on analyzing Summary of Weather.csv and Weather Station Locations.csv to identify temperature extremes, precipitation patterns, and geographic correlations. Bonus: July snowfall occurrences.
+
+Note: Tasks completed in Polish.
